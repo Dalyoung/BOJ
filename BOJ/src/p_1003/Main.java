@@ -9,9 +9,9 @@ public class Main {
 		Main m = new Main();
 		m.doit();
 	}
+	 
 	
-	
-	
+	  
 	int c0 = 0;
 	int c1 = 0;
 	
